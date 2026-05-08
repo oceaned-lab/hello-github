@@ -1,6 +1,6 @@
 # Hello GitHub
 
-Premier repository de ma formation Java.
+Premier repository de ma formation Java dans WSL Ubuntu.
 
 
 ## Objectif de la formation
